@@ -13,7 +13,9 @@ I currently use Python.
 
 # Where to reach me
 [Yahoo](mailto:ender4lion@yahoo.com)
+
 [Gmail](mailto:ender4lion@gmail.com)
+
 [Outlook](mailto:ender4lion@outlook.com)
 
 # My stat
