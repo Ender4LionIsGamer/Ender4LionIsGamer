@@ -18,7 +18,7 @@ I currently use Python.
 
 [Outlook](mailto:ender4lion@outlook.com)
 
-# My stat
+# My status
 ![](https://github.com/Ender4LionIsGamer/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Ender4LionIsGamer/github-stats/blob/master/generated/languages.svg)
 
